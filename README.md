@@ -20,7 +20,7 @@ pip install pandas numpy seaborn scikit-learn missingno pandas-profiling
 Run the Jupyter Notebook to preprocess the data and train the models. Adjust hyperparameters and preprocessing techniques as needed to improve performance.
 
 ## Dataset
-The dataset is provided as part of the "Pump it Up: Data Mining the Water Table" competition. It contains information on thousands of water pumps, including their location, installation year, water quality, and operational status.
+The dataset is provided as part of the [Pump it Up: Data Mining the Water Table](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) competition. It contains information on thousands of water pumps, including their location, installation year, water quality, and operational status.
 
 ## Results & Insights
 The analysis provides key insights into the factors influencing pump failure, allowing for better resource allocation in maintaining Tanzania's water infrastructure.
